@@ -1,0 +1,29 @@
+/* Set the global font family to Montserrat */
+html {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Set global background color and text to gruvbox dark */
+body {
+  background-color: #282828;
+  color: #ebdbb2;
+}
+
+/* Center body in the middle of the screen and add vertical padding */
+body {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 800px;
+  padding-top: 10%;
+}
+
+/* Make social logo class images 50px and add right padding */
+.social_logo {
+  width: 50px;
+  padding-right: 10px;
+}
+
+/* Add top padding for footer class */
+.footer {
+  padding-top: 20px;
+}
